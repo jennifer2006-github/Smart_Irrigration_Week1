@@ -48,5 +48,4 @@ To upload:
 - Upload to your GitHub repository
 - Add this `README.md` file for project documentation
 
-## 📞 Contact
-For queries, contact [Your Name or Email here].
+
